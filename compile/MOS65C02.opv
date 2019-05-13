@@ -1,0 +1,1 @@
+ -work MOS65C02 -lc C:/My_Designs/Kursach/library.cfg -fl C:/My_Designs/Kursach/MOS65C02/projlib.cfg -o C:/My_Designs/Kursach/MOS65C02/compile -l "MOS65C02"

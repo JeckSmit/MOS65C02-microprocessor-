@@ -1,0 +1,1 @@
+ -u "d:\programs\ACTIVE~1\bin/systf.dll" -v20  "C:\My_Designs\Kursach\MOS65C02\src\TestBench\tb_MOS65C02.v"  -cs  -g 5  -l "C:\My_Designs\Kursach\MOS65C02\compile\MOS65C02.erf" -r -li "C:\My_Designs\Kursach\MOS65C02\compile\MOS65C02.epr" -p "C:\My_Designs\Kursach\MOS65C02" 

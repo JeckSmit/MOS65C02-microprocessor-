@@ -1,0 +1,7 @@
+540
+~M 1 "./src/mos65c02.v" 126 PIC16C5x
+~A 1 "./src/mos65c02.v" 126 PIC16C5x
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 3 "./src/testbench/tb_mos65c02.v" 66 tb_PIC16C5x_v
+~A 1 "./src/testbench/tb_mos65c02.v" 66 tb_PIC16C5x_v
